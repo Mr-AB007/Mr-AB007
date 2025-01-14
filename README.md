@@ -1,6 +1,6 @@
 # Hi, I'm ANUBHAV 👋
 
-I am a **Java Full Stack Engineer** with a passion for building scalable and efficient solutions. I specialize in full-stack development, microservices, and cloud technologies, with a strong background in integrating systems and optimizing workflows. I thrive in collaborative environments and enjoy solving complex technical challenges.
+I am a **Java Full Stack Engineer** passionate about building scalable and efficient solutions. I specialize in full-stack development, microservices, and cloud technologies, with a strong background in integrating systems and optimizing workflows. I thrive in collaborative environments and enjoy solving complex technical challenges.
 
 ## 🛠 Skills
 - **Languages**: Java, Python, JavaScript, TypeScript
@@ -42,8 +42,6 @@ I am a **Java Full Stack Engineer** with a passion for building scalable and eff
 
 ## 🛠 Technologies & Tools
 
-## 🛠 Technologies & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="30"/>
@@ -62,5 +60,5 @@ I am a **Java Full Stack Engineer** with a passion for building scalable and eff
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
-- [YouTube](https://youtube.com/c/your-channel)
+- [LinkedIn](https://linkedin.com/anubhav-ranjan007/)
+- [YouTube](https://youtube.com/c/@FuryGuild)
