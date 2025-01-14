@@ -24,7 +24,7 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
   Developed a real-time data processing application using Kafka for high-throughput messaging and asynchronous processing.  
   Technologies used: `Kafka`, `Spring Boot`, `PostgreSQL`
 
-  - **Java Migration Project**:  
+- **Java Migration Project**:  
   Led the migration of legacy monolithic applications to Spring Boot, improving scalability and maintainability.  
   Technologies used: `Java`, `Spring Boot`, `PostgreSQL`, `AWS`, `Docker`
 
