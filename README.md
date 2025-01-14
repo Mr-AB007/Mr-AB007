@@ -40,19 +40,19 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ## 📈 Top Languages
 
 <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Mr-AB007" target="_blank">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=333333" alt="Java" height="40"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Mr-AB007" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=333333" alt="Python" height="40"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Mr-AB007" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=333333" alt="JavaScript" height="40"/>
   </a>
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=333333" alt="TypeScript" height="40"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Mr-AB007" target="_blank">
     <img src="https://img.shields.io/badge/SQL-%23276DC3.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=333333" alt="SQL" height="40"/>
   </a>
 </p>
