@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Mr-AB007/Mr-AB007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Java Full Stack Engineer** with 3+ years of experience, currently working at Cognizant.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, JavaScript, TypeScript
+- **Frameworks**: Spring Boot, React, Camunda
+- **Databases**: PostgreSQL, MySQL
+- **Cloud**: AWS
+- **Tools**: Git, Kafka, Docker, Jenkins
+- **Methodologies**: Agile, Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Java Migration Project**: Led the migration of legacy applications to Spring Boot.
+- **Camunda Workflow Automation**: Designed workflow solutions using Camunda.
+- **MLBB YouTube Channel**: Uploads of epic gameplay moments from Mobile Legends: Bang Bang.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🤝 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [YouTube](https://youtube.com/c/your-channel)
+
