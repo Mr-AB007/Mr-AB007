@@ -39,7 +39,7 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Mr-AB007&layout=compact&theme=radical&langs_count=5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AB007&layout=compact&theme=radical&langs_count=5" alt="Top Languages" />
 </p>
 
 
