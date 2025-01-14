@@ -39,8 +39,23 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AB007&layout=compact&theme=radical&langs_count=5" alt="Top Languages" />
+  <a href="https://github.com/Mr-AB007" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>
+  </a>
+  <a href="https://github.com/Mr-AB007" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-%23276DC3.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
+  </a>
 </p>
+
 
 
 ---
