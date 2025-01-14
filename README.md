@@ -55,10 +55,18 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/>
   <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/Scikit%20Learn-%2335495E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="30"/>
 </p>
 
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/anubhav-ranjan007/)
-- [YouTube](https://www.youtube.com/@FuryGuild)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhav-ranjan007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/@FuryGuild" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"/>
+  </a>
+</p>
