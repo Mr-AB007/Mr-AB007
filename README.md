@@ -1,9 +1,9 @@
-# Hi, I'm Anubhav 👋
+# Hi, I'm ANUBHAV 👋
 
-I'm a **Java Full Stack Engineer** with 3+ years of experience, currently working at Cognizant.
+I am a **Java Full Stack Engineer** with a passion for building scalable and efficient solutions. I specialize in full-stack development, microservices, and cloud technologies, with a strong background in integrating systems and optimizing workflows. I thrive in collaborative environments and enjoy solving complex technical challenges.
 
 ## 🛠 Skills
-- **Languages**: Java, JavaScript, TypeScript
+- **Languages**: Java, Python, JavaScript, TypeScript
 - **Frameworks**: Spring Boot, React, Camunda
 - **Databases**: PostgreSQL, MySQL
 - **Cloud**: AWS
@@ -11,15 +11,36 @@ I'm a **Java Full Stack Engineer** with 3+ years of experience, currently workin
 - **Methodologies**: Agile, Scrum
 
 ## 🚀 Projects
-- **Java Migration Project**: Led the migration of legacy applications to Spring Boot.
-- **Camunda Workflow Automation**: Designed workflow solutions using Camunda.
-- **MLBB YouTube Channel**: Uploads of epic gameplay moments from Mobile Legends: Bang Bang.
+- **Java Migration Project**:  
+  Led the migration of legacy monolithic applications to Spring Boot, improving scalability and maintainability.  
+  Technologies used: `Java`, `Spring Boot`, `PostgreSQL`, `AWS`, `Docker`
+
+- **Microservices Architecture**:  
+  Designed and implemented microservices for various business modules with inter-service communication using REST and Kafka. Deployed services on AWS with Docker containers.  
+  Technologies used: `Java`, `Spring Boot`, `Kafka`, `Docker`, `AWS`
+
+- **Camunda Workflow Automation**:  
+  Designed and deployed workflow solutions using Camunda BPM to automate complex business processes.  
+  Technologies used: `Camunda`, `Spring Boot`, `PostgreSQL`
+
+- **Kafka-based Real-Time Application**:  
+  Developed a real-time data processing application using Kafka for high-throughput messaging and asynchronous processing.  
+  Technologies used: `Kafka`, `Spring Boot`, `PostgreSQL`
+
+- **Census Income Prediction**:  
+  Worked on a predictive model for census income data to classify income levels based on demographic factors using machine learning techniques.  
+  Technologies used: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
+
+- **MLBB YouTube Channel**:  
+  Uploads of epic gameplay moments from Mobile Legends: Bang Bang, including perfect Bruno gameplay and Vexana victories in ranked tournaments.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
+
+## 🛠 Technologies & Tools
 
 ## 🛠 Technologies & Tools
 
@@ -34,6 +55,8 @@ I'm a **Java Full Stack Engineer** with 3+ years of experience, currently workin
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
   <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" height="30"/>
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/>
+  <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-%2335495E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
 </p>
 
 ---
