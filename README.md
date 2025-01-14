@@ -35,8 +35,8 @@ I am a **Java Full Stack Engineer** with a passion for building scalable and eff
   Uploads of epic gameplay moments from Mobile Legends: Bang Bang, including perfect Bruno gameplay and Vexana victories in ranked tournaments.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-AB007&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AB007&layout=compact&theme=radical)
 
 ---
 
