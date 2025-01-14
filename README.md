@@ -11,9 +11,6 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 - **Methodologies**: Agile, Scrum
 
 ## 🚀 Projects
-- **Java Migration Project**:  
-  Led the migration of legacy monolithic applications to Spring Boot, improving scalability and maintainability.  
-  Technologies used: `Java`, `Spring Boot`, `PostgreSQL`, `AWS`, `Docker`
 
 - **Microservices Architecture**:  
   Designed and implemented microservices for various business modules with inter-service communication using REST and Kafka. Deployed services on AWS with Docker containers.  
@@ -26,6 +23,10 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 - **Kafka-based Real-Time Application**:  
   Developed a real-time data processing application using Kafka for high-throughput messaging and asynchronous processing.  
   Technologies used: `Kafka`, `Spring Boot`, `PostgreSQL`
+
+  - **Java Migration Project**:  
+  Led the migration of legacy monolithic applications to Spring Boot, improving scalability and maintainability.  
+  Technologies used: `Java`, `Spring Boot`, `PostgreSQL`, `AWS`, `Docker`
 
 - **Census Income Prediction**:  
   Worked on a predictive model for census income data to classify income levels based on demographic factors using machine learning techniques.  
