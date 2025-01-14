@@ -65,20 +65,21 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="30"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30"/>
-  <img src="https://img.shields.io/badge/Camunda-%23007acc.svg?style=for-the-badge&logo=camunda&logoColor=white" alt="Camunda" height="30"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" height="30"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/>
-  <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/Scikit%20Learn-%2335495E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="30"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="20"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" height="20"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" height="20"/>
+  <img src="https://img.shields.io/badge/Camunda-%23007acc.svg?style=flat&logo=camunda&logoColor=white" alt="Camunda" height="20"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="20"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" height="20"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" height="20"/>
+  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" height="20"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" height="20"/>
+  <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-%2335495E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="20"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="20"/>
 </p>
+
 
 ---
 
