@@ -60,5 +60,5 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/anubhav-ranjan007/)
-- [YouTube](https://youtube.com/c/@FuryGuild)
+- [LinkedIn](https://www.linkedin.com/in/anubhav-ranjan007/)
+- [YouTube](https://www.youtube.com/@FuryGuild)
