@@ -45,6 +45,9 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-AB007&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-AB007&theme=radical)
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AB007&layout=compact&theme=radical)
+
 
 ## 📈 Top Languages
 
