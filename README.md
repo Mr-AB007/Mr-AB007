@@ -39,7 +39,7 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ### 📊 GitHub Stats
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-AB007&show_icons=true&theme=radical)
 
-### 📈 Most Used Languages
+## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mr-AB007&theme=radical&hide_progress=true)
 
 ### 🔥 Streak Stats
