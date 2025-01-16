@@ -34,20 +34,19 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 
 - **MLBB YouTube Channel**:  
   Uploads of epic gameplay moments from Mobile Legends: Bang Bang, including perfect Bruno gameplay and Vexana victories in ranked tournaments.
+---
 
 ### 📊 GitHub Stats
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-AB007&show_icons=true&theme=radical)
 
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mr-AB007&theme=radical&hide_progress=true)
+
 ### 🔥 Streak Stats
 ![Anubhav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-AB007&theme=radical)
-
+---
 ### 🏆 GitHub Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-AB007&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-AB007&theme=radical)
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AB007&layout=compact&theme=radical)
-
 
 ## 📈 Top Languages
 
@@ -68,10 +67,6 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
     <img src="https://img.shields.io/badge/SQL-%23276DC3.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=333333" alt="SQL" height="40"/>
   </a>
 </p>
-
-
-
-
 
 ---
 
