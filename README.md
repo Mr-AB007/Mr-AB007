@@ -86,13 +86,7 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 </p>
 
 ---
-### 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-AB007&theme=radical)
-
----
-
 ## 🤝 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-ranjan007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
