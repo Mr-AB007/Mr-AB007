@@ -44,9 +44,6 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 
 ### 🔥 Streak Stats
 ![Anubhav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-AB007&theme=radical)
----
-### 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-AB007&theme=radical)
 
 ## 📈 Top Languages
 
@@ -88,6 +85,9 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="20"/>
 </p>
 
+---
+### 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-AB007&theme=radical)
 
 ---
 
