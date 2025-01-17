@@ -30,7 +30,7 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 
 - **Census Income Prediction**:  
   Worked on a predictive model for census income data to classify income levels based on demographic factors using machine learning techniques.  
-  Technologies used: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
+  Technologies used: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib` more
 
 - **MLBB YouTube Channel**:  
   Uploads of epic gameplay moments from Mobile Legends: Bang Bang, including perfect Bruno gameplay and Vexana victories in ranked tournaments.
