@@ -35,12 +35,16 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 - **MLBB YouTube Channel**:  
   Uploads of epic gameplay moments from Mobile Legends: Bang Bang, including perfect Bruno gameplay and Vexana victories in ranked tournaments.
 ---
+## GitHub Insights
 
-### 📊 GitHub Stats
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-AB007&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Mr-AB007" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AB007&theme=tokyonight" width="49%" />
+</p>
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mr-AB007&theme=radical&hide_progress=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AB007&hide_border=true" width="80%" />
+</p>
 
 ## 📈 Top Languages
 
