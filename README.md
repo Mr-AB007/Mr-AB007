@@ -38,13 +38,27 @@ I am a **Java Full Stack Engineer** passionate about building scalable and effic
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Mr-AB007" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AB007&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AB007&theme=github_dark" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AB007&hide_border=true" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-AB007&theme=github_dark" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-AB007&theme=github_dark&utcOffset=5.5" width="40%" />
 </p>
+
+---
+
+## 🧠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17+-white.svg)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-white.svg)
+![AWS](https://img.shields.io/badge/AWS-Cloud-white.svg)
+![Docker](https://img.shields.io/badge/Docker-Container-white.svg)
+![SQL](https://img.shields.io/badge/SQL-Database-white.svg)
+![React](https://img.shields.io/badge/React-Frontend-white.svg)
+![Git](https://img.shields.io/badge/Git-Version%20Control-white.svg)
+
+---
 
 ## 📈 Top Languages
 
