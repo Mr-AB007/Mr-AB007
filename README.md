@@ -3,7 +3,7 @@
 I am a **Java Full Stack Engineer** passionate about building scalable and efficient solutions. I specialize in full-stack development, microservices, and cloud technologies, with a strong background in integrating systems and optimizing workflows. I thrive in collaborative environments and enjoy solving complex technical challenges.
 
 ## 🛠 Skills
-- **Languages**: Java, Python, JavaScript, TypeScript
+- **Languages**: Java, Python, JavaScript, 
 - **Frameworks**: Spring Boot, React, Camunda
 - **Databases**: PostgreSQL, MySQL
 - **Cloud**: AWS
