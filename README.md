@@ -12,12 +12,12 @@ My recent work spans both worlds: an **event-driven banking platform** (SmartPay
 
 ## 🛠 Skills
 - **Languages**: Java, Python, JavaScript, TypeScript, SQL, C++
-- **Backend**: Spring Boot 3, Spring Cloud Gateway, Eureka, OpenFeign, Spring Security (JWT), REST APIs, Camunda BPM
+- **Backend**: Spring Boot 3, Spring Cloud Gateway, Eureka, OpenFeign, Spring Security (JWT), REST APIs
 - **Messaging & Resilience**: Apache Kafka, Redis (caching, rate limiting), Resilience4j (retry, circuit breaker)
-- **AI / LLM**: Ollama, LLM integration, RAG (Retrieval-Augmented Generation), Prompt Engineering, Custom Models (Modelfiles), Model Quantization & Selection, Hugging Face API
+- **AI / LLM**: Ollama, LLM integration, RAG (Retrieval-Augmented Generation), Prompt Engineering, Custom Models (Modelfiles), Model Quantization & Selection
 - **ML / MLOps**: Scikit-learn, Pandas, NumPy, FastAPI model serving, Docker
 - **Frontend**: React, TypeScript, Vite, Bootstrap, Framer Motion
-- **Databases**: PostgreSQL, MySQL, MongoDB, H2
+- **Databases**: PostgreSQL, MySQL, H2
 - **Cloud & DevOps**: AWS, Docker / Docker Compose, Jenkins, Maven, Git
 - **Methodologies**: Agile, Scrum
 
@@ -34,10 +34,6 @@ My recent work spans both worlds: an **event-driven banking platform** (SmartPay
 - **🧪 [Applied MLOps](https://github.com/Mr-AB007/applied-mlops)**
   A hands-on, day-by-day path through the MLOps stack: Python fundamentals, NumPy/Pandas data work, ML fundamentals (train/test split, overfitting, evaluation, feature engineering), **serving a trained model with FastAPI**, and **containerising with Docker**. Next up: CI/CD and production deployment.
   `Python` `Pandas` `Scikit-learn` `FastAPI` `Docker`
-
-- **📓 [Journal API with AI enrichment](https://github.com/Mr-AB007/journal-api)**
-  A Spring Boot REST API for journal entries with **JWT-secured** user management and MongoDB storage. It calls the **Hugging Face API** to enrich entries with NLP and integrates a weather service.
-  `Java 17` `Spring Boot 3` `Spring Security` `MongoDB` `Hugging Face`
 
 - **📊 [Census Income Prediction](https://github.com/Mr-AB007/Census-Income-Prediction)**
   A machine learning model that classifies income levels from demographic census data.
@@ -69,7 +65,6 @@ My recent work spans both worlds: an **event-driven banking platform** (SmartPay
 - **⚛️ [React Apps](https://github.com/Mr-AB007/react-apps)** and **🎮 [Tic-Tac-Toe](https://github.com/Mr-AB007/tic-tac-game)**: React and JavaScript practice projects. `React` `JavaScript`
 
 ## 💼 Professional Work
-- **Camunda Workflow Automation**: designed and deployed Camunda BPM workflows to automate complex business processes. `Camunda` `Spring Boot` `PostgreSQL`
 - **Kafka-based Real-Time Processing**: high-throughput, asynchronous data processing with Kafka. `Kafka` `Spring Boot` `PostgreSQL`
 - **Monolith → Spring Boot Migration**: led the migration of legacy monolithic applications to Spring Boot for better scalability and maintainability. `Java` `Spring Boot` `AWS` `Docker`
 
@@ -92,7 +87,6 @@ Consistent DSA practice in Java, Python and C++:
 | Step | Status |
 |---|---|
 | ML fundamentals and model serving with FastAPI + Docker | ✅ Done |
-| AI features in Java APIs (Hugging Face) | ✅ Done |
 | Run open-source LLMs locally (Ollama) | ✅ Done |
 | Full-stack LLM chat app with streaming | ✅ Done |
 | RAG: web search with citations | ✅ Done |
@@ -136,10 +130,8 @@ Consistent DSA practice in Java, Python and C++:
   <img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat&logo=spring-security&logoColor=white" alt="Spring Security" height="20"/>
   <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" height="20"/>
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis" height="20"/>
-  <img src="https://img.shields.io/badge/Camunda-%23007acc.svg?style=flat&logo=camunda&logoColor=white" alt="Camunda" height="20"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="20"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="20"/>
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" height="20"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" height="20"/>
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" height="20"/>
@@ -148,7 +140,6 @@ Consistent DSA practice in Java, Python and C++:
   <img src="https://img.shields.io/badge/Python-%2336758C.svg?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="20"/>
   <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white" alt="Ollama" height="20"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" height="20"/>
   <img src="https://img.shields.io/badge/LLM-RAG-%238B5CF6.svg?style=flat" alt="LLM RAG" height="20"/>
   <img src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="20"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="20"/>
